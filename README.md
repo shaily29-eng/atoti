@@ -1,2 +1,2 @@
 # atoti
-burrito dashboard
+Build a burrito dashboard using atoti
